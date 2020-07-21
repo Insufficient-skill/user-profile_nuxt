@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 0,
+      "userName": "Andrey",
+      "password": "1234",
+      "email": "andrey1992@mail.ru",
+      "avatar": "https://randomuser.me/api/portraits/men/78.jpg"
+    },
+    {
+      "id": 1,
+      "userName": "Vladislav",
+      "password": "1234",
+      "email": "vladislav.ivanov@gmail.ru",
+      "avatar": "https://randomuser.me/api/portraits/men/78.jpg"
+    }
+  ]
+}
